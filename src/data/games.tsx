@@ -111,7 +111,7 @@ export const games: Game[] = [
   {
     title: 'Celeb',
     description: 'Name the celebrity',
-    url: 'https://qw-secret-celeb.netlify.app',
+    url: 'https://qw-secret-celeb-2.netlify.app',
     icon: <User className="w-8 h-8" />,
     color: 'bg-amber-500',
     darkColor: 'dark:bg-amber-600',
