@@ -148,4 +148,14 @@ export const games: Game[] = [
     color: 'bg-purple-500',
     darkColor: 'dark:bg-purple-600',
   },
+
+  {
+    title: 'Pipes',
+    description: 'Turn the tiles to connect the pipes',
+    url: 'https://qw-pipes.netlify.app',
+    icon: <Search className="w-8 h-8" />,
+    color: 'bg-lime-500',
+    darkColor: 'dark:bg-lime-600',
+  },
+  
 ];
